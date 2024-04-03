@@ -11,6 +11,8 @@ This boilerplate is designed for rapid development, ideal for hackathons or any 
 - **ui/shadcn**: A set of React components to kickstart your UI development with ease.
 - **Supabase Client**: Integrates with Supabase for authentication, database, and storage, providing a robust backend solution.
 
+With Sort Imports by Trivago and Sort TailwindCSS classes :)
+
 ## Getting Started
 
 To get started with this boilerplate, clone the repository and install the dependencies.
