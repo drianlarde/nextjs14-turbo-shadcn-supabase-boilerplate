@@ -16,7 +16,7 @@ This boilerplate is designed for rapid development, ideal for hackathons or any 
 To get started with this boilerplate, clone the repository and install the dependencies.
 
 ```bash
-git clone https://your-repository-link.git
+git clone https://github.com/drianlarde/nextjs14-turbo-shadcn-supabase-boilerplate
 cd your-repository-name
 npm install
 ```

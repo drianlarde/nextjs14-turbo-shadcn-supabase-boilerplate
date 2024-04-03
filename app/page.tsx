@@ -48,7 +48,7 @@ export default function Home() {
             >
                 <Button className="rounded-lg bg-yellow-400 px-6 py-3 font-semibold text-zinc-700 transition-colors duration-300 hover:bg-yellow-500 hover:text-zinc-800">
                     <a
-                        href="https://github.com/your-repo"
+                        href="https://github.com/drianlarde/nextjs14-turbo-shadcn-supabase-boilerplate"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
