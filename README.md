@@ -2,6 +2,8 @@
 
 This boilerplate is designed for rapid development, ideal for hackathons or any project requiring quick iterations and deployments. It integrates Next.js 14 with Server Actions, API Route Handlers, TailwindCSS for styling, `ui/shadcn` for UI components, and Supabase Client for backend services.
 
+<img width="1430" alt="Screenshot 2024-04-03 at 8 23 57 PM" src="https://github.com/drianlarde/nextjs14-turbo-shadcn-supabase-boilerplate/assets/69323240/68713b6f-3407-4af6-8d5a-00a56ffe6d06">
+
 ## Features
 
 - **Next.js 14**: The React framework for production, enabling React Server Components, fast refresh, and more.
