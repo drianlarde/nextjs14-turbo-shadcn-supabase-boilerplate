@@ -1,4 +1,4 @@
-# Next.js 14 (Turbo ⚡️) Boilerplate with Server Actions, API Route Handlers, TailwindCSS, ui/shadcn, Framer Motion and Supabase
+# Next.js 14 (Turbo ⚡️) Boilerplate with Server Actions, API Route Handlers, TailwindCSS, ui/shadcn, Framer Motion, React Animated Cursor and Supabase Client
 
 This boilerplate is designed for rapid development, ideal for hackathons or any project requiring quick iterations and deployments. It integrates Next.js 14 with Server Actions, API Route Handlers, TailwindCSS for styling, `ui/shadcn` for UI components, and Supabase Client for backend services.
 
@@ -11,7 +11,7 @@ This boilerplate is designed for rapid development, ideal for hackathons or any 
 - **ui/shadcn**: A set of React components to kickstart your UI development with ease.
 - **Supabase Client**: Integrates with Supabase for authentication, database, and storage, providing a robust backend solution.
 
-With Sort Imports by Trivago and Sort TailwindCSS classes :)
+With Sort Imports by Trivago and Sort TailwindCSS classes + Trendy React Animated Cursor! :)
 
 ## Getting Started
 
