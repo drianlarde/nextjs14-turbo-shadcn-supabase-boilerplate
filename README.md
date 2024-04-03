@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 14 (Turbo ⚡️) Boilerplate with Server Actions, API Route Handlers, TailwindCSS, ui/shadcn, Framer Motion and Supabase
+
+This boilerplate is designed for rapid development, ideal for hackathons or any project requiring quick iterations and deployments. It integrates Next.js 14 with Server Actions, API Route Handlers, TailwindCSS for styling, `ui/shadcn` for UI components, and Supabase Client for backend services.
+
+## Features
+
+- **Next.js 14**: The React framework for production, enabling React Server Components, fast refresh, and more.
+- **Server Actions**: Simplify interactions with your backend, allowing for direct calls to server-side logic from your frontend.
+- **API Route Handlers**: Organize your API logic within your Next.js project, making it straightforward to manage your endpoints.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **ui/shadcn**: A set of React components to kickstart your UI development with ease.
+- **Supabase Client**: Integrates with Supabase for authentication, database, and storage, providing a robust backend solution.
 
 ## Getting Started
 
-First, run the development server:
+To get started with this boilerplate, clone the repository and install the dependencies.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://your-repository-link.git
+cd your-repository-name
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
+Before running your project, make sure to set up your environment variables. Create a .env.local file in the root directory and add your Supabase keys:
+```
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Running the Project
+To run the project locally, execute:
+```
+npm run dev
+```
 
-## Learn More
+## Structure
+Here's a brief overview of the project structure:
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 14**: The React framework for production, enabling React Server Components, fast refresh, and more.
+- **Server Actions**: Simplify interactions with your backend, allowing for direct calls to server-side logic from your frontend.
+- **API Route Handlers**: Organize your API logic within your Next.js project, making it straightforward to manage your endpoints.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **ui/shadcn**: A set of React components to kickstart your UI development with ease.
+- **Supabase Client**: Integrates with Supabase for authentication, database, and storage, providing a robust backend solution.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This boilerplate is ready to be deployed on platforms like Vercel, Netlify, or any other service that supports Next.js deployments. Follow the specific instructions of your chosen platform for deployment details.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy hacking! This boilerplate is designed to streamline your development process, allowing you to focus on building your project.
